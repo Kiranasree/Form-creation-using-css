@@ -1,0 +1,21 @@
+.form{
+    text-align: center;
+    background-color: rgb(165, 255, 127);
+    padding-right: 40%;
+    padding-top: 10%;
+    border-radius: 10px;
+    box-shadow: 4px 6px 8px rgb(red, green, blue);
+    width: 40%;
+    border: 10px solid black;
+}
+button{
+    width: 20%;
+    padding: 10px;
+    background-color: bisque;
+    border-radius: 15px black;
+    cursor: pointer;
+    height: 20%;
+}
+section{
+    border: 10px;
+}
